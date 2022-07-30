@@ -6,8 +6,8 @@
         "MDisk",
         "shortner"
     ],
-    "website": "https://github.com/Shashwat-Shukla/mdisk-ultra-bot",
-    "repository": "https://github.com/Shashwat-Shukla/mdisk-ultra-bot",
+    "website": "https://github.com/Agent-150/mdisk",
+    "repository": "https://github.com/Agent-150/mdisk",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token (must add)",
